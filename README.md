@@ -19,11 +19,3 @@ I must confess that I feel like a monster
 I, I feel like a monster 
 I, I feel like a monster 
 ```
-
-```
-$a = 5; 
-$b = 3; 
-$c = $a + $b; 
-``` 
-
-`echo $c;`
